@@ -136,7 +136,7 @@ vertices = np.array([
 # ============================================================
 
 step_deg = 1  # angular resolution (degrees)
-output_file = "LAM_all_data.csv"
+output_file = "tetra_SO3_L1_Linf.csv"
 
 x_angles = np.arange(0, 360, step_deg)
 y_angles = np.arange(0, 360, step_deg)
